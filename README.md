@@ -1,4 +1,4 @@
-# 👋 Hey there, I’m Jaelin Cooper (@Jae277)
+# 👋 Hey there, I’m Jaelin Cooper
 
 - 👀 I’m interested in full-stack web development, game development, and building creative digital experiences.
 - 🌱 I’m currently learning React.js, Node.js, and Express.js through the TripleTen bootcamp.
