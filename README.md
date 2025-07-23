@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Jaelin Cooper 👋</h1>
+<h1 align="center">Hey, I'm Jaelin 👋</h1>
 
 <p align="center">
   Front-End Developer • UI Enthusiast • Enduro Rider<br/>
