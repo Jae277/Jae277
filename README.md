@@ -11,7 +11,7 @@
 
 ### 🌟 About Me
 
-Hi, I'm **Jaelin**, a passionate **front-end developer** focused on building smooth, responsive, and accessible user experiences. I love turning design ideas into real, working products with clean, maintainable code.
+Hi, I'm **Jaelin**, a passionate Aspiring **front-end developer** focused on building smooth, responsive, and accessible user experiences. I love turning design ideas into real, working products with clean, maintainable code.
 
 - 🎓 Student at **Tripleten**
 - 🧠 Focused on modern UI, performance, and usability
